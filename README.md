@@ -1,4 +1,4 @@
-# ReadComicsOnline Downloader
+# Rainbow 6 Server Changer
 *A Simple Server Changer For Rainbow Six Siege*
 
 ## :exclamation: Important:
